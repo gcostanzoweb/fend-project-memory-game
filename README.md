@@ -1,20 +1,11 @@
 # Memory Game Project
 
-## Table of Contents
+## Additional features
+In addition to the features required by the project rubric:
+- there is a difficulty picker, adding 2 additional difficulty levels: 6x6 and 8x8
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## How does it work
+The `app.js` file is full of comments explaining thoroughly how it functions.
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## Credits
+No additional resource were taken from other websites or projects, referring to the projects' initial commit.
